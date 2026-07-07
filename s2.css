@@ -32,6 +32,9 @@ a{
 #name{
     font-size:24px;
 }
+#name1{
+    font-size:24px;
+}
 #ed{
     font-size:20px;
 }
@@ -49,8 +52,8 @@ h3{
 }
 #div1o2 img{
     padding-bottom:2px;
-    height:160px;
-    width:120px;
+    height:220px;
+    width:160px;
     border-radius:50%;
     border: 3px solid white;
 }
