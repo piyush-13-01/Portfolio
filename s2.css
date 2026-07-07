@@ -14,7 +14,7 @@ body{
     top:1px;
     left:1px;
     background-color:#020617;
-    width:1249px;
+    width:100%;
     z-index:5;
 }
 li{
@@ -56,6 +56,8 @@ h3{
     width:160px;
     border-radius:50%;
     border: 3px solid white;
+    position:absolute;
+    right:30px;
 }
 #div2{
     display:flex;
@@ -82,7 +84,7 @@ h3{
     border-radius:50%;
     overflow:hidden;
     position:absolute;
-    right:15px;
+    right:30px;
 }
 #contact{
     display:flex;
@@ -105,7 +107,7 @@ h3{
     height:150px;
     border-radius:50%;
     position:absolute;
-    left:20px;
+    right:30px;
 }
 #proj{
     display:flex;
@@ -124,7 +126,7 @@ h3{
     height:150px;
     border-radius:50%;
     position:absolute;
-    left:1070px;
+    right:30px;
 }
 #skills{
     display:flex;
