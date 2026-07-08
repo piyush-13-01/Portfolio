@@ -3,7 +3,7 @@ body{
     color: #F8FAFC;
 }
 *{
-    font-family:inter;
+    font-family:poppins,serif;
 }
 #navbar{
     display:flex;
@@ -30,13 +30,13 @@ a{
     color:aqua;
 }
 #name{
-    font-size:24px;
+    font-size:20px;
 }
 #name1{
     font-size:24px;
 }
 #ed{
-    font-size:20px;
+    font-size:24px;
 }
 h3{
     position:absolute;
@@ -58,6 +58,7 @@ h3{
     border: 3px solid white;
     position:absolute;
     right:30px;
+    top:90px;
 }
 #div2{
     display:flex;
@@ -107,7 +108,7 @@ h3{
     height:150px;
     border-radius:50%;
     position:absolute;
-    right:30px;
+    left:30px;
 }
 #proj{
     display:flex;
