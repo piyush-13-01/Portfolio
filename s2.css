@@ -115,12 +115,13 @@ h3{
     justify-content:space-between;
     flex-direction:row;
     height:160px;
+    
 }
 #proj1{
     position:absolute;
-    width:600px;
-    left:500px;
+    left:200px;
     align-self:center;
+    width:800px;
 }
 #proj2 img{
     width:150px;
@@ -128,6 +129,12 @@ h3{
     border-radius:50%;
     position:absolute;
     right:30px;
+}
+#prj1o4{
+    position:absolute;
+    left:60px;
+    align-self:center;
+    width:800px;
 }
 #skills{
     display:flex;
