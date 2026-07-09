@@ -35,7 +35,7 @@ a{
 #name1{
     font-size:24px;
 }
-#ed{
+#ed1,#ed2{
     font-size:24px;
 }
 h3{
@@ -59,6 +59,7 @@ h3{
     position:absolute;
     right:30px;
     top:90px;
+    background-color:white;
 }
 #div2{
     display:flex;
@@ -76,7 +77,7 @@ h3{
     height:200px;
     border-radius:50%;
     position:absolute;
-    left:15px;
+    left:30px;
 }
 #div2o3{
     /* border: 3px solid black; */
@@ -143,14 +144,18 @@ h3{
     height:160px;
 }
 #sk1{
-    position:absolute;
-    width:600px;
-    left:450px;
+    width:800px;
+    position:relative;
+    bottom:50px;
+    left:300px;
     align-self:center;
+    display:flex;
+    justify-content:space-between;
 }
 #sk2 img{
     width:150px;
     height:150px;
     border-radius:50%;
     position:absolute;
+    left:30px;
 }
