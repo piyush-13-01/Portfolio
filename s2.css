@@ -69,8 +69,9 @@ h3{
 }
 #div2o1{
     width:900px;
-    position:absolute;
-    left:400px;
+    position:relative;
+    left:100px;
+    bottom:30px;
 }
 #div2o2 img{
     width:200px;
@@ -99,9 +100,10 @@ h3{
     height:160px;
 }
 #w1{
-    position:absolute;
-    width:600px;
-    left:300px;
+    position:relative;
+    bottom:50px;
+    width:900px;
+    right:20px;
     align-self:center;
 }
 #w2 img{
@@ -119,7 +121,8 @@ h3{
     
 }
 #proj1{
-    position:absolute;
+    position:relative;
+    bottom:20px;
     left:200px;
     align-self:center;
     width:800px;
